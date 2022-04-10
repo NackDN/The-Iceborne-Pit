@@ -19,6 +19,9 @@ Back when this mod was being actively updated, I did try other methods that coul
 
 This mod only replaces the weapon parts of the monsters and weapons listed above. In order to replace *all* weapon parts, I would personally recommend to combine my mod with the ***Part Replacer*** version of TWJon's "No More Slap On Weapons" mod (https://www.nexusmods.com/monsterhunterworld/mods/5091).
 
+# Download
+The mod is actually too large for GitHub, so you'll have to download it from the following Google Drive link: https://drive.google.com/file/d/1mVdexMMilbquiHJiu4t07ydNJgasUhpx/view?usp=sharing
+
 # Installation
 Installed the same way as 99% of MHW:I mods. Just drop the nativePC folder into the root of your game.
 
